@@ -1,5 +1,3 @@
-import math
-
 num1 = input("Enter 1st number: ")
 oper = input("Enter desired operation(+,-,&,/): ")
 num2 = input("Enter 2nd number: ")
